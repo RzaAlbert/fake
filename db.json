@@ -1,0 +1,13 @@
+{
+  "phones": [
+        {"id":1,"name": "Samsung S9 +","price":1399,"amount":120},
+         {"id":2,"name": "Samsung S9 +","price":1399,"amount":134},
+		 {"id":3,"name": "Samsung S9 +","price":1399,"amount":162},
+		 {"id":4,"name": "Samsung S9 +","price":1399,"amount":64},
+		 {"id":5,"name": "Samsung S9 +","price":1399,"amount":22},
+		 {"id":6,"name": "Samsung S9 +","price":1399,"amount":12},
+		 {"id":7,"name": "Samsung S9 +","price":1399,"amount":167},
+		 {"id":8,"name": "Samsung S9 +","price":1399,"amount":42}
+	]
+}
+   
