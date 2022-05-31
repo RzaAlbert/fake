@@ -1,13 +1,13 @@
 {
   "phones": [
         {"id":1,"name": "Samsung S9 +","price":1399,"amount":120},
-         {"id":2,"name": "Samsung S9 +","price":1399,"amount":134},
-		 {"id":3,"name": "Samsung S9 +","price":1399,"amount":162},
-		 {"id":4,"name": "Samsung S9 +","price":1399,"amount":64},
-		 {"id":5,"name": "Samsung S9 +","price":1399,"amount":22},
-		 {"id":6,"name": "Samsung S9 +","price":1399,"amount":12},
-		 {"id":7,"name": "Samsung S9 +","price":1399,"amount":167},
-		 {"id":8,"name": "Samsung S9 +","price":1399,"amount":42}
+         {"id":2,"name": "Nokia S9 +","price":213,"amount":134},
+		 {"id":3,"name": "ad S9 +","price":125,"amount":162},
+		 {"id":4,"name": "sad S9 +","price":2415,"amount":64},
+		 {"id":5,"name": "asd S9 +","price":41251,"amount":22},
+		 {"id":6,"name": "Samasdsung S9 +","price":412,"amount":12},
+		 {"id":7,"name": "Samsasdung S9 +","price":2,"amount":167},
+		 {"id":8,"name": "qwerqwrqw S9 +","price":124,"amount":42}
 	]
 }
    
